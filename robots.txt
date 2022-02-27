@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://haesim.github.io/sitemap/sitemap-index.xml
+Host: https://haesim.github.io
